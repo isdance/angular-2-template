@@ -1,3 +1,4 @@
-/**
- * Created by isdance on 2016/8/20.
- */
+export class Config{
+    static MAIN_TITLE : string = "My Favorite Videos";
+    static VIDEO_BASE_URL: string = "https://www.youtube.com/watch?v=";
+}
